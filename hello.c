@@ -1,9 +1,9 @@
 /**
  * Author: Dashel Romanski
  *         EMAIL
- * Date: 8/23/2022
+ * Date: 8/25/2022
  *
- * A simple hello world program in C
+ * Repository excercise 
  *
  */
 #include <stdlib.h>
@@ -11,6 +11,7 @@
 
 int main(int argc, char **argv) {
 
-  printf("Hello World!\n");
+  printf("Dashel Romanski\n");
+  printf("My major is Computer Science\n!");
   return 0;
 }
